@@ -3,7 +3,7 @@ The 3rd rewrite of the MSHA Builders Club website.
 
 ## Running
 ```bash
-git clone https://github.com/mshashrenik/keyclub.msha.ml
+git clone https://github.com/mshashrenik/builders.msha.ml
 cd keyclub.msha.ml
 npm install
 npm run dev
