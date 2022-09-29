@@ -10,16 +10,19 @@ export default function Bottom() {
             </Footer.LinkGroup>
             <Footer.LinkGroup>
                 <Footer.Link href="/about">
-                  About
+                    About
                 </Footer.Link>
                 <Footer.Link href="/contact">
                     Contact
                 </Footer.Link>
                 <Footer.Link href="https://www.christinak12.org/honorsacademy">
-                    Official MSHA
+                    MSHA
                 </Footer.Link>
                 <Footer.Link href="https://www.kiwanis.org/">
-                    Official Kiwanis
+                    Kiwanis
+                </Footer.Link>
+                <Footer.Link href="https://forms.gle/xezWd6mZX7fDxvEVA">
+                    Feedback
                 </Footer.Link>
                 <Footer.Link href="https://github.com/mshashrenik/builders.msha.ml/">
                     Github
