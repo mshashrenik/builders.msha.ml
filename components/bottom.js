@@ -3,11 +3,11 @@ import { Footer } from "flowbite-react";
 export default function Bottom() {
   return (
     <Footer container={true} rounded={true}>
-      <Footer.LinkGroup>
-        <Footer.Link href="https://github.com/mshashrenik/builders.msha.ml/blob/main/LICENSE">
-          Copyright (C) 2022 Shrenik S
-        </Footer.Link>
-      </Footer.LinkGroup>
+      <Footer.Copyright
+        href="https://github.com/mshashrenik/builders.msha.ml"
+        by="Shrenik S™"
+        year={2022}
+      />
       <Footer.LinkGroup>
         <Footer.Link href="/about">About</Footer.Link>
         <Footer.Link href="/contact">Contact</Footer.Link>
