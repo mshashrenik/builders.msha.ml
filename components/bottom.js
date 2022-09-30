@@ -4,7 +4,7 @@ export default function Bottom() {
   return (
     <Footer container={true} rounded={true}>
       <Footer.Copyright
-        href="https://github.com/mshashrenik/builders.msha.ml"
+        href="/"
         by="Shrenik S"
         year={2022}
       />
