@@ -5,7 +5,7 @@ export default function Bottom() {
     <Footer container={true} rounded={true}>
       <Footer.Copyright
         href="https://github.com/mshashrenik/builders.msha.ml"
-        by="Shrenik S™"
+        by="Shrenik S"
         year={2022}
       />
       <Footer.LinkGroup>
